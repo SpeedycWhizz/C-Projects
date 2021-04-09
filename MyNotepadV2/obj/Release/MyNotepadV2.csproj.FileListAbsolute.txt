@@ -1,0 +1,10 @@
+C:\Users\Clint\source\repos\TEST\TEST\bin\Release\TEST.exe.config
+C:\Users\Clint\source\repos\TEST\TEST\bin\Release\TEST.exe
+C:\Users\Clint\source\repos\TEST\TEST\bin\Release\TEST.pdb
+C:\Users\Clint\source\repos\TEST\TEST\obj\Release\TEST.MyNotepadV2.resources
+C:\Users\Clint\source\repos\TEST\TEST\obj\Release\TEST.Properties.Resources.resources
+C:\Users\Clint\source\repos\TEST\TEST\obj\Release\MyNotepadV2.csproj.GenerateResource.cache
+C:\Users\Clint\source\repos\TEST\TEST\obj\Release\MyNotepadV2.csproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\TEST\TEST\obj\Release\TEST.exe
+C:\Users\Clint\source\repos\TEST\TEST\obj\Release\TEST.pdb
+C:\Users\Clint\source\repos\TEST\TEST\obj\Release\MyNotepadV2.csprojAssemblyReference.cache
