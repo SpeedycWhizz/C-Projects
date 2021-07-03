@@ -1,0 +1,33 @@
+C:\Users\Clint\source\repos\DUMP\DUMP\bin\Release\TamV1.cs
+C:\Users\Clint\source\repos\DUMP\DUMP\bin\Release\DUMP.exe.config
+C:\Users\Clint\source\repos\DUMP\DUMP\bin\Release\DUMP.exe
+C:\Users\Clint\source\repos\DUMP\DUMP\bin\Release\DUMP.pdb
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Release\TamV1.0.csprojAssemblyReference.cache
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Release\DUMP.Properties.Resources.resources
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Release\TamV1.0.csproj.GenerateResource.cache
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Release\TamV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Release\DUMP.exe
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Release\DUMP.pdb
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Release\DUMP.TamV1.resources
+C:\Users\Clint\Desktop\DUMP\DUMP\bin\Release\TamV1.cs
+C:\Users\Clint\Desktop\DUMP\DUMP\bin\Release\DUMP.exe.config
+C:\Users\Clint\Desktop\DUMP\DUMP\bin\Release\DUMP.exe
+C:\Users\Clint\Desktop\DUMP\DUMP\bin\Release\DUMP.pdb
+C:\Users\Clint\Desktop\DUMP\DUMP\obj\Release\TamV1.0.csprojAssemblyReference.cache
+C:\Users\Clint\Desktop\DUMP\DUMP\obj\Release\DUMP.TamV1.resources
+C:\Users\Clint\Desktop\DUMP\DUMP\obj\Release\DUMP.Properties.Resources.resources
+C:\Users\Clint\Desktop\DUMP\DUMP\obj\Release\TamV1.0.csproj.GenerateResource.cache
+C:\Users\Clint\Desktop\DUMP\DUMP\obj\Release\TamV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Clint\Desktop\DUMP\DUMP\obj\Release\DUMP.exe
+C:\Users\Clint\Desktop\DUMP\DUMP\obj\Release\DUMP.pdb
+C:\Users\Clint\Desktop\TamV1.0 (Use This Version)\DUMP\bin\Release\TamV1.cs
+C:\Users\Clint\Desktop\TamV1.0 (Use This Version)\DUMP\bin\Release\DUMP.exe.config
+C:\Users\Clint\Desktop\TamV1.0 (Use This Version)\DUMP\bin\Release\DUMP.exe
+C:\Users\Clint\Desktop\TamV1.0 (Use This Version)\DUMP\bin\Release\DUMP.pdb
+C:\Users\Clint\Desktop\TamV1.0 (Use This Version)\DUMP\obj\Release\TamV1.0.csprojAssemblyReference.cache
+C:\Users\Clint\Desktop\TamV1.0 (Use This Version)\DUMP\obj\Release\DUMP.TamV1.resources
+C:\Users\Clint\Desktop\TamV1.0 (Use This Version)\DUMP\obj\Release\DUMP.Properties.Resources.resources
+C:\Users\Clint\Desktop\TamV1.0 (Use This Version)\DUMP\obj\Release\TamV1.0.csproj.GenerateResource.cache
+C:\Users\Clint\Desktop\TamV1.0 (Use This Version)\DUMP\obj\Release\TamV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Clint\Desktop\TamV1.0 (Use This Version)\DUMP\obj\Release\DUMP.exe
+C:\Users\Clint\Desktop\TamV1.0 (Use This Version)\DUMP\obj\Release\DUMP.pdb

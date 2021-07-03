@@ -1,0 +1,11 @@
+C:\Users\Clint\source\repos\DUMP\DUMP\bin\Debug\DUMP.exe.config
+C:\Users\Clint\source\repos\DUMP\DUMP\bin\Debug\DUMP.exe
+C:\Users\Clint\source\repos\DUMP\DUMP\bin\Debug\DUMP.pdb
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Debug\TamV1.0.csprojAssemblyReference.cache
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Debug\DUMP.Form1.resources
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Debug\DUMP.Properties.Resources.resources
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Debug\TamV1.0.csproj.GenerateResource.cache
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Debug\TamV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Debug\DUMP.exe
+C:\Users\Clint\source\repos\DUMP\DUMP\obj\Debug\DUMP.pdb
+C:\Users\Clint\source\repos\DUMP\DUMP\bin\Debug\TamV1.cs
