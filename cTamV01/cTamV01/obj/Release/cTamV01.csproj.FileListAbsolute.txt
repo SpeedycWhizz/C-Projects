@@ -1,0 +1,10 @@
+C:\Users\Clint\source\repos\cTamV01\cTamV01\bin\Release\cTamV01.exe.config
+C:\Users\Clint\source\repos\cTamV01\cTamV01\bin\Release\cTamV01.exe
+C:\Users\Clint\source\repos\cTamV01\cTamV01\bin\Release\cTamV01.pdb
+C:\Users\Clint\source\repos\cTamV01\cTamV01\obj\Release\cTamV01.TamV1.resources
+C:\Users\Clint\source\repos\cTamV01\cTamV01\obj\Release\cTamV01.Properties.Resources.resources
+C:\Users\Clint\source\repos\cTamV01\cTamV01\obj\Release\cTamV01.csproj.GenerateResource.cache
+C:\Users\Clint\source\repos\cTamV01\cTamV01\obj\Release\cTamV01.csproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\cTamV01\cTamV01\obj\Release\cTamV01.exe
+C:\Users\Clint\source\repos\cTamV01\cTamV01\obj\Release\cTamV01.pdb
+C:\Users\Clint\source\repos\cTamV01\cTamV01\obj\Release\cTamV01.csprojAssemblyReference.cache
