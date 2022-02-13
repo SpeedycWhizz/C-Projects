@@ -1,2 +1,2 @@
-# C-Projects
-Just atarting to learn C#
+# C# Projects
+Just starting to learn C#
