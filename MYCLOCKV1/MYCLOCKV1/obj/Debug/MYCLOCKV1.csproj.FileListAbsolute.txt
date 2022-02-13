@@ -1,0 +1,10 @@
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Debug\MYCLOCKV1.Properties.Resources.resources
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Debug\MYCLOCKV1.csproj.GenerateResource.cache
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Debug\MYCLOCKV1.csproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Debug\MYCLOCKV1.csproj.AssemblyReference.cache
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\bin\Debug\MYCLOCKV1.exe.config
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\bin\Debug\MYCLOCKV1.exe
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\bin\Debug\MYCLOCKV1.pdb
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Debug\MYCLOCKV1.exe
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Debug\MYCLOCKV1.pdb
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Debug\MYCLOCKV1.MyClockV1.resources
