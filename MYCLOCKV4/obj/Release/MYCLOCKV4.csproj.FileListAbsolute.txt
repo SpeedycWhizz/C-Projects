@@ -1,0 +1,24 @@
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\obj\Release\MYCLOCKV4.csprojAssemblyReference.cache
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\obj\Release\MYCLOCKV1.frmAboutBox.resources
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\obj\Release\MYCLOCKV1.FrmNoTimeSet.resources
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\obj\Release\MYCLOCKV4.Properties.Resources.resources
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\obj\Release\MYCLOCKV4.csproj.GenerateResource.cache
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\obj\Release\MYCLOCKV4.csproj.CoreCompileInputs.cache
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\bin\Release\MYCLOCKV4.exe.config
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\bin\Release\MYCLOCKV4.exe
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\bin\Release\MYCLOCKV4.pdb
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\obj\Release\MYCLOCKV4.exe
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\obj\Release\MYCLOCKV4.pdb
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\New folder\MYCLOCKV4\obj\Release\MYCLOCKV1.FrmMyClockV.resources
+C:\Users\Clint\source\repos\MYCLOCKV4\bin\Release\MYCLOCKV4.exe.config
+C:\Users\Clint\source\repos\MYCLOCKV4\bin\Release\MYCLOCKV4.exe
+C:\Users\Clint\source\repos\MYCLOCKV4\bin\Release\MYCLOCKV4.pdb
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Release\MYCLOCKV4.csprojAssemblyReference.cache
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Release\MYCLOCKV1.frmAboutBox.resources
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Release\MYCLOCKV1.FrmNoTimeSet.resources
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Release\MYCLOCKV1.FrmMyClockV.resources
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Release\MYCLOCKV4.Properties.Resources.resources
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Release\MYCLOCKV4.csproj.GenerateResource.cache
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Release\MYCLOCKV4.csproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Release\MYCLOCKV4.exe
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Release\MYCLOCKV4.pdb

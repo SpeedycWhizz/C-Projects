@@ -1,0 +1,12 @@
+C:\Users\Clint\source\repos\MYCLOCKV4\bin\Debug\MYCLOCKV4.exe.config
+C:\Users\Clint\source\repos\MYCLOCKV4\bin\Debug\MYCLOCKV4.exe
+C:\Users\Clint\source\repos\MYCLOCKV4\bin\Debug\MYCLOCKV4.pdb
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Debug\MYCLOCKV1.frmAboutBox.resources
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Debug\MYCLOCKV1.FrmNoTimeSet.resources
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Debug\MYCLOCKV1.FrmMyClockV.resources
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Debug\MYCLOCKV4.Properties.Resources.resources
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Debug\MYCLOCKV4.csproj.GenerateResource.cache
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Debug\MYCLOCKV4.csproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Debug\MYCLOCKV4.exe
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Debug\MYCLOCKV4.pdb
+C:\Users\Clint\source\repos\MYCLOCKV4\obj\Debug\MYCLOCKV4.csprojAssemblyReference.cache

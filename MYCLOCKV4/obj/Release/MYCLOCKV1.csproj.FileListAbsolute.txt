@@ -1,0 +1,54 @@
+C:\Users\Clint\source\repos\MYCLOCKV1 TRYING BIG CHANGES\MYCLOCKV1\bin\Release\MYCLOCKV1.exe.config
+C:\Users\Clint\source\repos\MYCLOCKV1 TRYING BIG CHANGES\MYCLOCKV1\bin\Release\MYCLOCKV1.exe
+C:\Users\Clint\source\repos\MYCLOCKV1 TRYING BIG CHANGES\MYCLOCKV1\bin\Release\MYCLOCKV1.pdb
+C:\Users\Clint\source\repos\MYCLOCKV1 TRYING BIG CHANGES\MYCLOCKV1\obj\Release\MYCLOCKV1.csprojAssemblyReference.cache
+C:\Users\Clint\source\repos\MYCLOCKV1 TRYING BIG CHANGES\MYCLOCKV1\obj\Release\MYCLOCKV1.FrmMyClockV1.resources
+C:\Users\Clint\source\repos\MYCLOCKV1 TRYING BIG CHANGES\MYCLOCKV1\obj\Release\MYCLOCKV1.Properties.Resources.resources
+C:\Users\Clint\source\repos\MYCLOCKV1 TRYING BIG CHANGES\MYCLOCKV1\obj\Release\MYCLOCKV1.csproj.GenerateResource.cache
+C:\Users\Clint\source\repos\MYCLOCKV1 TRYING BIG CHANGES\MYCLOCKV1\obj\Release\MYCLOCKV1.csproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\MYCLOCKV1 TRYING BIG CHANGES\MYCLOCKV1\obj\Release\MYCLOCKV1.exe
+C:\Users\Clint\source\repos\MYCLOCKV1 TRYING BIG CHANGES\MYCLOCKV1\obj\Release\MYCLOCKV1.pdb
+C:\Users\Clint\source\repos\MYCLOCKV1 (REMOVED REPEATED CODE\MYCLOCKV1\bin\Release\MYCLOCKV1.exe.config
+C:\Users\Clint\source\repos\MYCLOCKV1 (REMOVED REPEATED CODE\MYCLOCKV1\bin\Release\MYCLOCKV1.exe
+C:\Users\Clint\source\repos\MYCLOCKV1 (REMOVED REPEATED CODE\MYCLOCKV1\bin\Release\MYCLOCKV1.pdb
+C:\Users\Clint\source\repos\MYCLOCKV1 (REMOVED REPEATED CODE\MYCLOCKV1\obj\Release\MYCLOCKV1.csprojAssemblyReference.cache
+C:\Users\Clint\source\repos\MYCLOCKV1 (REMOVED REPEATED CODE\MYCLOCKV1\obj\Release\MYCLOCKV1.FrmMyClockV1.resources
+C:\Users\Clint\source\repos\MYCLOCKV1 (REMOVED REPEATED CODE\MYCLOCKV1\obj\Release\MYCLOCKV1.Properties.Resources.resources
+C:\Users\Clint\source\repos\MYCLOCKV1 (REMOVED REPEATED CODE\MYCLOCKV1\obj\Release\MYCLOCKV1.csproj.GenerateResource.cache
+C:\Users\Clint\source\repos\MYCLOCKV1 (REMOVED REPEATED CODE\MYCLOCKV1\obj\Release\MYCLOCKV1.csproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\MYCLOCKV1 (REMOVED REPEATED CODE\MYCLOCKV1\obj\Release\MYCLOCKV1.exe
+C:\Users\Clint\source\repos\MYCLOCKV1 (REMOVED REPEATED CODE\MYCLOCKV1\obj\Release\MYCLOCKV1.pdb
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Release\MYCLOCKV1.csprojAssemblyReference.cache
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Release\MYCLOCKV1.Form1.resources
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Release\MYCLOCKV1.FrmMyClockV1.resources
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Release\MYCLOCKV1.Properties.Resources.resources
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Release\MYCLOCKV1.csproj.GenerateResource.cache
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Release\MYCLOCKV1.csproj.CoreCompileInputs.cache
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\MYCLOCKV1 MORE TWEAKS (ABOUT BOX)\MYCLOCKV1\bin\Release\MYCLOCKV1.exe.config
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\MYCLOCKV1 MORE TWEAKS (ABOUT BOX)\MYCLOCKV1\bin\Release\MYCLOCKV1.exe
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\MYCLOCKV1 MORE TWEAKS (ABOUT BOX)\MYCLOCKV1\bin\Release\MYCLOCKV1.pdb
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\MYCLOCKV1 MORE TWEAKS (ABOUT BOX)\MYCLOCKV1\obj\Release\MYCLOCKV1.csprojAssemblyReference.cache
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\MYCLOCKV1 MORE TWEAKS (ABOUT BOX)\MYCLOCKV1\obj\Release\MYCLOCKV1.Form1.resources
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\MYCLOCKV1 MORE TWEAKS (ABOUT BOX)\MYCLOCKV1\obj\Release\MYCLOCKV1.FrmMyClockV1.resources
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\MYCLOCKV1 MORE TWEAKS (ABOUT BOX)\MYCLOCKV1\obj\Release\MYCLOCKV1.Properties.Resources.resources
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\MYCLOCKV1 MORE TWEAKS (ABOUT BOX)\MYCLOCKV1\obj\Release\MYCLOCKV1.csproj.GenerateResource.cache
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\MYCLOCKV1 MORE TWEAKS (ABOUT BOX)\MYCLOCKV1\obj\Release\MYCLOCKV1.csproj.CoreCompileInputs.cache
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\MYCLOCKV1 MORE TWEAKS (ABOUT BOX)\MYCLOCKV1\obj\Release\MYCLOCKV1.exe
+C:\Users\Clint\Desktop\VS 2019 Projects Source Code  Working\MYCLOCKV1 MORE TWEAKS (ABOUT BOX)\MYCLOCKV1\obj\Release\MYCLOCKV1.pdb
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\bin\Release\MYCLOCKV1.exe.config
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\bin\Release\MYCLOCKV1.exe
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\bin\Release\MYCLOCKV1.pdb
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Release\MYCLOCKV1.exe
+C:\Users\Clint\source\repos\MYCLOCKV1\MYCLOCKV1\obj\Release\MYCLOCKV1.pdb
+C:\Users\Clint\source\repos\MYCLOCKV1\bin\Release\MYCLOCKV1.exe.config
+C:\Users\Clint\source\repos\MYCLOCKV1\bin\Release\MYCLOCKV1.exe
+C:\Users\Clint\source\repos\MYCLOCKV1\bin\Release\MYCLOCKV1.pdb
+C:\Users\Clint\source\repos\MYCLOCKV1\obj\Release\MYCLOCKV1.csprojAssemblyReference.cache
+C:\Users\Clint\source\repos\MYCLOCKV1\obj\Release\MYCLOCKV1.frmAboutBox.resources
+C:\Users\Clint\source\repos\MYCLOCKV1\obj\Release\MYCLOCKV1.FrmNoTimeSet.resources
+C:\Users\Clint\source\repos\MYCLOCKV1\obj\Release\MYCLOCKV1.FrmMyClockV1.resources
+C:\Users\Clint\source\repos\MYCLOCKV1\obj\Release\MYCLOCKV1.Properties.Resources.resources
+C:\Users\Clint\source\repos\MYCLOCKV1\obj\Release\MYCLOCKV1.csproj.GenerateResource.cache
+C:\Users\Clint\source\repos\MYCLOCKV1\obj\Release\MYCLOCKV1.csproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\MYCLOCKV1\obj\Release\MYCLOCKV1.exe
+C:\Users\Clint\source\repos\MYCLOCKV1\obj\Release\MYCLOCKV1.pdb

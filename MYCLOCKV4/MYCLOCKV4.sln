@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYCLOCKV4", "MYCLOCKV4.csproj", "{DB2F4496-BF70-42A8-B95F-8C10C288C34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2F4496-BF70-42A8-B95F-8C10C288C34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2F4496-BF70-42A8-B95F-8C10C288C34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2F4496-BF70-42A8-B95F-8C10C288C34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2F4496-BF70-42A8-B95F-8C10C288C34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E77331E0-4A3D-4DC1-B37F-5D8DDB4F1B48}
+	EndGlobalSection
+EndGlobal
